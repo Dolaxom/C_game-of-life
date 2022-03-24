@@ -5,4 +5,5 @@ To run, compile the .c file and run it with the path to the file with cell coord
 
 For example:
 **gcc** *game_of_life.c*
+
 *./a.out data/State01.txt*
